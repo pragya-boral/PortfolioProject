@@ -59,3 +59,4 @@ Group by Location, Population, date
 order by PercentPopulationInfected desc
 
 
+https://public.tableau.com/app/profile/pragya.botral/viz/COVIDDashboard_16733762632500/Dashboard1?publish=yes
